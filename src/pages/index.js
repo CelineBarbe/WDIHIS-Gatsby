@@ -7,8 +7,10 @@ const IndexPage = () => {
   return (
     <main>
       <h1>Premier test</h1>
-      <Link to='/fabrics'>Tissus</Link>
-      <Link to='/threads'>Fils</Link>
+      <Link to='/fabrics'>Tissus </Link>
+      <p></p>
+      <Link to='/threads'>Fils </Link>
+      <p></p>
       <Link to='/patterns'>Patrons</Link>
     </main>
       
