@@ -13,7 +13,6 @@ const IndexPage = () => {
       <p></p>
       <Link to='/patterns'>Patrons</Link>
     </main>
-      
   )
 }
 
