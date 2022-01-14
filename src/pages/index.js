@@ -7,9 +7,9 @@ const IndexPage = () => {
   return (
     <main>
       <h1>Premier test</h1>
-      <Link to='/tissus'>Tissus</Link>
-      <Link to='/fils'>Fils</Link>
-      <Link to='/patrons'>Patrons</Link>
+      <Link to='/fabrics'>Tissus</Link>
+      <Link to='/threads'>Fils</Link>
+      <Link to='/patterns'>Patrons</Link>
     </main>
       
   )
